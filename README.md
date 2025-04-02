@@ -6,7 +6,7 @@ ChuckNorris app is a solution created with the Express/Node.js platform, with th
 
 With this project I aim to develope understanding of how to integrate public APIs into web projects and how to use Express/Node.js for server-side programming. I practice understanding the client-server communication using Axios and I practice to manipulate, present and owrk with data retrieved from APIs. 
 
-![images/overview]
+![images/overview.png]
 
 ## Features
 - Website shows a random Chuck Norris joke

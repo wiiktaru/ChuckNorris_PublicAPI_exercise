@@ -17,10 +17,18 @@ Images folder has an overview.png file for app demo picture.
 The main entrt point of the solution is the index.js file 
 
 ## Techologies used
-
-- Visual studio code
+Front-end: 
 - Javascript
-- Express/Node.js
+- CSS
+
+Back-end: 
+- Node.js
+- Express (Framework)
+
+API: 
+- Public API
 - Axios
-- EJS
-  
+
+IDE:
+- Visual Studio Code 
+
